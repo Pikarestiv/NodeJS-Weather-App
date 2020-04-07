@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "A nodejs app for finding the current temperature in different cities using opern weather map API.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "NodeJS",
+    "Weather",
+    "app"
+  ],
+  "author": "Josh Odumodu",
+  "license": "ISC"
+}
